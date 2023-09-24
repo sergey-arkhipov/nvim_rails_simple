@@ -1,0 +1,16 @@
+require "keymaps"
+require "options"
+require "lazy-config"
+require "alpha-config"
+require "autopairs-config"
+require "hop-config"
+require "lualine-config"
+require "nvim-tree-config" -- Added this line to initial file
+require "bufferline-config"
+require "lsp-config"
+require "telescope-config"
+require "toggleterm-config"
+require "treesitter-config"
+require "whichkey"
+require 'efm-lint-config'
+require "colorscheme"
